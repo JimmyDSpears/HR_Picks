@@ -12,6 +12,7 @@
   <ItemGroup>
     <PackageReference Include="DSharpPlus" Version="4.0.1" />
     <PackageReference Include="DSharpPlus.CommandsNext" Version="4.0.1" />
+    <PackageReference Include="Google.Apis.Sheets.v4" Version="1.52.0.2338" />
   </ItemGroup>
 
 </Project>

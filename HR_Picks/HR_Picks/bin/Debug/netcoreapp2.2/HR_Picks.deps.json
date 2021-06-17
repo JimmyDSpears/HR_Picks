@@ -1,7 +1,7 @@
 {
   "runtimeTarget": {
     "name": ".NETCoreApp,Version=v2.2",
-    "signature": "00803dc2409123b601dea09a1768581ff76107e7"
+    "signature": "11ce024a26b1b8354f1872406cecf09298fd463c"
   },
   "compilationOptions": {},
   "targets": {
@@ -9,7 +9,8 @@
       "HR_Picks/1.0.0": {
         "dependencies": {
           "DSharpPlus": "4.0.1",
-          "DSharpPlus.CommandsNext": "4.0.1"
+          "DSharpPlus.CommandsNext": "4.0.1",
+          "Google.Apis.Docs.v1": "1.52.0.2273"
         },
         "runtime": {
           "HR_Picks.dll": {}
@@ -56,6 +57,56 @@
           "lib/netcoreapp2.1/Emzi0767.Common.dll": {
             "assemblyVersion": "2.6.1.0",
             "fileVersion": "2.6.1.0"
+          }
+        }
+      },
+      "Google.Apis/1.52.0": {
+        "dependencies": {
+          "Google.Apis.Core": "1.52.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Google.Apis.dll": {
+            "assemblyVersion": "1.52.0.0",
+            "fileVersion": "1.52.0.0"
+          }
+        }
+      },
+      "Google.Apis.Auth/1.52.0": {
+        "dependencies": {
+          "Google.Apis": "1.52.0",
+          "Google.Apis.Core": "1.52.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Google.Apis.Auth.PlatformServices.dll": {
+            "assemblyVersion": "1.52.0.0",
+            "fileVersion": "1.52.0.0"
+          },
+          "lib/netstandard2.0/Google.Apis.Auth.dll": {
+            "assemblyVersion": "1.52.0.0",
+            "fileVersion": "1.52.0.0"
+          }
+        }
+      },
+      "Google.Apis.Core/1.52.0": {
+        "dependencies": {
+          "Newtonsoft.Json": "13.0.1"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Google.Apis.Core.dll": {
+            "assemblyVersion": "1.52.0.0",
+            "fileVersion": "1.52.0.0"
+          }
+        }
+      },
+      "Google.Apis.Docs.v1/1.52.0.2273": {
+        "dependencies": {
+          "Google.Apis": "1.52.0",
+          "Google.Apis.Auth": "1.52.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Google.Apis.Docs.v1.dll": {
+            "assemblyVersion": "1.52.0.2273",
+            "fileVersion": "1.52.0.2273"
           }
         }
       },
@@ -866,6 +917,34 @@
       "sha512": "sha512-1TcKpiQ8MZ8VasyWVWbvNcaECPwNDd/fKVLSCn4fblivrPR8R35ElAroqKYAiENyD7HfYMZNCvoKAq++bpP9AA==",
       "path": "emzi0767.common/2.6.1",
       "hashPath": "emzi0767.common.2.6.1.nupkg.sha512"
+    },
+    "Google.Apis/1.52.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-5YWTBzHuNUiYIUoIBkCGYMokyYuaOuAn+w96lIJ2WNqeiAurKq3ZLqZ86fYae32PDWHZa+itFYc9O1iVfYi5dQ==",
+      "path": "google.apis/1.52.0",
+      "hashPath": "google.apis.1.52.0.nupkg.sha512"
+    },
+    "Google.Apis.Auth/1.52.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-T7JKjq4zmk8b4lrOn+kyatgDQdLytoV+i6Fw4agyWlm4Q+bbZbu3DcCz+UuliEtXHbShgHD1PWfiMJoQGuPEog==",
+      "path": "google.apis.auth/1.52.0",
+      "hashPath": "google.apis.auth.1.52.0.nupkg.sha512"
+    },
+    "Google.Apis.Core/1.52.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-cgQpnZ9IC5SBNsAFTXHKUMB8bOkBWPLtXcLgwSYkV8oL0FfUdHwrDzH5qrf/mFB9fQIPgJyV6tdUwf2hu1UJ+A==",
+      "path": "google.apis.core/1.52.0",
+      "hashPath": "google.apis.core.1.52.0.nupkg.sha512"
+    },
+    "Google.Apis.Docs.v1/1.52.0.2273": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-dqtcXJF+8j//QYSJrMb771nwEHwHWewZA8rf7UsQ7a47l2c8xT9coipm+sVmWRmQndIDOS3rTINRFZSW2qrWiQ==",
+      "path": "google.apis.docs.v1/1.52.0.2273",
+      "hashPath": "google.apis.docs.v1.1.52.0.2273.nupkg.sha512"
     },
     "Microsoft.Bcl.AsyncInterfaces/5.0.0": {
       "type": "package",

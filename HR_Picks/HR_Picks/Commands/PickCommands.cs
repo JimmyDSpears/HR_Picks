@@ -6,8 +6,8 @@ namespace HR_Picks.Commands
 {
     public class PickCommands : BaseCommandModule
     {
-        [Command("MyPick")]
-        public async Task HRPick(CommandContext ctx)
+        [Command("HRCall")]
+        public async Task HRCall(CommandContext ctx)
         {
             await ctx.Channel.SendMessageAsync("pong").ConfigureAwait(false);
         }
