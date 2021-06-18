@@ -1,7 +1,7 @@
 {
   "runtimeTarget": {
     "name": ".NETCoreApp,Version=v2.2",
-    "signature": "11ce024a26b1b8354f1872406cecf09298fd463c"
+    "signature": "e3c0b9b8b762ca6960ab0a65501f27e8bf29a4c6"
   },
   "compilationOptions": {},
   "targets": {
@@ -10,7 +10,7 @@
         "dependencies": {
           "DSharpPlus": "4.0.1",
           "DSharpPlus.CommandsNext": "4.0.1",
-          "Google.Apis.Docs.v1": "1.52.0.2273"
+          "Google.Apis.Sheets.v4": "1.52.0.2338"
         },
         "runtime": {
           "HR_Picks.dll": {}
@@ -98,15 +98,15 @@
           }
         }
       },
-      "Google.Apis.Docs.v1/1.52.0.2273": {
+      "Google.Apis.Sheets.v4/1.52.0.2338": {
         "dependencies": {
           "Google.Apis": "1.52.0",
           "Google.Apis.Auth": "1.52.0"
         },
         "runtime": {
-          "lib/netstandard2.0/Google.Apis.Docs.v1.dll": {
-            "assemblyVersion": "1.52.0.2273",
-            "fileVersion": "1.52.0.2273"
+          "lib/netstandard2.0/Google.Apis.Sheets.v4.dll": {
+            "assemblyVersion": "1.52.0.2338",
+            "fileVersion": "1.52.0.2338"
           }
         }
       },
@@ -939,12 +939,12 @@
       "path": "google.apis.core/1.52.0",
       "hashPath": "google.apis.core.1.52.0.nupkg.sha512"
     },
-    "Google.Apis.Docs.v1/1.52.0.2273": {
+    "Google.Apis.Sheets.v4/1.52.0.2338": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-dqtcXJF+8j//QYSJrMb771nwEHwHWewZA8rf7UsQ7a47l2c8xT9coipm+sVmWRmQndIDOS3rTINRFZSW2qrWiQ==",
-      "path": "google.apis.docs.v1/1.52.0.2273",
-      "hashPath": "google.apis.docs.v1.1.52.0.2273.nupkg.sha512"
+      "sha512": "sha512-894bmIZOYj3cNfdk5Gawf9mKlHXqtcGZCiR36irlMrep/dK24AcRW2cWi1TrzImdNeyOdFwXoD3rhMw2vFU/qA==",
+      "path": "google.apis.sheets.v4/1.52.0.2338",
+      "hashPath": "google.apis.sheets.v4.1.52.0.2338.nupkg.sha512"
     },
     "Microsoft.Bcl.AsyncInterfaces/5.0.0": {
       "type": "package",

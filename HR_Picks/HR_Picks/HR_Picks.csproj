@@ -7,12 +7,22 @@
 
   <ItemGroup>
     <None Include="bin\Debug\netcoreapp2.2\ClientConfig.json" />
+    <None Include="bin\Debug\netcoreapp2.2\GoogleCreds.json" />
   </ItemGroup>
 
   <ItemGroup>
     <PackageReference Include="DSharpPlus" Version="4.0.1" />
     <PackageReference Include="DSharpPlus.CommandsNext" Version="4.0.1" />
     <PackageReference Include="Google.Apis.Sheets.v4" Version="1.52.0.2338" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="Configs\ClientConfig.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Configs\GoogleCreds.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
   </ItemGroup>
 
 </Project>

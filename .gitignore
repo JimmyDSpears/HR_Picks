@@ -2,3 +2,6 @@
 HR_Picks/HR_Picks/Configs/ClientConfig.json
 HR_Picks/HR_Picks/Configs/client_secret_648672017175-7onqs0tls29mpd7in5cur959muqsmov7.apps.googleusercontent.com.json
 HR_Picks/HR_Picks/Configs/ClientConfig.json
+HR_Picks/HR_Picks/bin/Debug/netcoreapp2.2/token.json/Google.Apis.Auth.OAuth2.Responses.TokenResponse-user
+HR_Picks/HR_Picks/Configs/GoogleCreds.json
+HR_Picks/HR_Picks/Configs/ClientConfig.json
