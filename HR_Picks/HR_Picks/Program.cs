@@ -19,7 +19,7 @@ namespace HR_Picks
             UserCredential credential;
 
             using (var stream =
-                new FileStream("GoogleCreds.json", FileMode.Open, FileAccess.Read))
+                new FileStream("./Configs/GoogleCreds.json", FileMode.Open, FileAccess.Read))
             {
                 // The file token.json stores the user's access and refresh tokens, and is created
                 // automatically when the authorization flow completes for the first time.
@@ -39,13 +39,15 @@ namespace HR_Picks
                 ApplicationName = appName,
             });
 
-            var requestBody = new Google.Apis.Sheets.v4.Data.Spreadsheet();
+            SpreadsheetsResource.GetRequest request = service.Spreadsheets.Get("1KDudcClsm6ecX7SQppuFIRwGA6VUNM3T3G75L2Z2KJA");
 
-            SpreadsheetsResource.CreateRequest request = service.Spreadsheets.Create(requestBody);
 
             var response = request.Execute();
 
-            Console.WriteLine(JsonConvert.SerializeObject(response));
+            var test = response.Sheets[0].Properties.Title;
+            var testId = response.Sheets[0].Properties.SheetId;
+
+            Console.WriteLine($"{test} {testId}");
 
             var bot = new HRPicksBot();
             bot.RunAsync().GetAwaiter().GetResult();

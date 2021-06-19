@@ -9,3 +9,16 @@ C:\Users\shark\OneDrive\Documents\GitHub\HR_Picks\HR_Picks\HR_Picks\obj\Debug\ne
 C:\Users\shark\OneDrive\Documents\GitHub\HR_Picks\HR_Picks\HR_Picks\bin\Debug\netcoreapp2.2\HR_Picks.pdb
 C:\Users\shark\OneDrive\Documents\GitHub\HR_Picks\HR_Picks\HR_Picks\obj\Debug\netcoreapp2.2\HR_Picks.dll
 C:\Users\shark\OneDrive\Documents\GitHub\HR_Picks\HR_Picks\HR_Picks\obj\Debug\netcoreapp2.2\HR_Picks.pdb
+C:\Users\shark\Documents\GitHub\HR_Picks\HR_Picks\HR_Picks\bin\Debug\netcoreapp2.2\Configs\ClientConfig.json
+C:\Users\shark\Documents\GitHub\HR_Picks\HR_Picks\HR_Picks\bin\Debug\netcoreapp2.2\HR_Picks.deps.json
+C:\Users\shark\Documents\GitHub\HR_Picks\HR_Picks\HR_Picks\bin\Debug\netcoreapp2.2\HR_Picks.runtimeconfig.json
+C:\Users\shark\Documents\GitHub\HR_Picks\HR_Picks\HR_Picks\bin\Debug\netcoreapp2.2\HR_Picks.runtimeconfig.dev.json
+C:\Users\shark\Documents\GitHub\HR_Picks\HR_Picks\HR_Picks\bin\Debug\netcoreapp2.2\HR_Picks.dll
+C:\Users\shark\Documents\GitHub\HR_Picks\HR_Picks\HR_Picks\bin\Debug\netcoreapp2.2\HR_Picks.pdb
+C:\Users\shark\Documents\GitHub\HR_Picks\HR_Picks\HR_Picks\obj\Debug\netcoreapp2.2\HR_Picks.csprojAssemblyReference.cache
+C:\Users\shark\Documents\GitHub\HR_Picks\HR_Picks\HR_Picks\obj\Debug\netcoreapp2.2\HR_Picks.csproj.CoreCompileInputs.cache
+C:\Users\shark\Documents\GitHub\HR_Picks\HR_Picks\HR_Picks\obj\Debug\netcoreapp2.2\HR_Picks.AssemblyInfoInputs.cache
+C:\Users\shark\Documents\GitHub\HR_Picks\HR_Picks\HR_Picks\obj\Debug\netcoreapp2.2\HR_Picks.AssemblyInfo.cs
+C:\Users\shark\Documents\GitHub\HR_Picks\HR_Picks\HR_Picks\obj\Debug\netcoreapp2.2\HR_Picks.dll
+C:\Users\shark\Documents\GitHub\HR_Picks\HR_Picks\HR_Picks\obj\Debug\netcoreapp2.2\HR_Picks.pdb
+C:\Users\shark\Documents\GitHub\HR_Picks\HR_Picks\HR_Picks\bin\Debug\netcoreapp2.2\Configs\GoogleCreds.json
