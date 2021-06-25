@@ -5020,11 +5020,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\shark\\Documents\\GitHub\\HR_Picks\\HR_Picks\\HR_Picks\\HR_Picks.csproj",
+      "projectUniqueName": "C:\\Users\\shark\\OneDrive\\Documents\\GitHub\\HR_Picks\\HR_Picks\\HR_Picks\\HR_Picks.csproj",
       "projectName": "HR_Picks",
-      "projectPath": "C:\\Users\\shark\\Documents\\GitHub\\HR_Picks\\HR_Picks\\HR_Picks\\HR_Picks.csproj",
+      "projectPath": "C:\\Users\\shark\\OneDrive\\Documents\\GitHub\\HR_Picks\\HR_Picks\\HR_Picks\\HR_Picks.csproj",
       "packagesPath": "C:\\Users\\shark\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\shark\\Documents\\GitHub\\HR_Picks\\HR_Picks\\HR_Picks\\obj\\",
+      "outputPath": "C:\\Users\\shark\\OneDrive\\Documents\\GitHub\\HR_Picks\\HR_Picks\\HR_Picks\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5037,9 +5037,10 @@
         "netcoreapp2.2"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Users\\shark\\OneDrive\\Documents\\GitHub\\Apollo\\BuildScript\\NuGet": {},
         "https://api.nuget.org/v3/index.json": {},
-        "https://buildserver.365residentservices.com:4430/httpAuth/app/nuget/feed/Apollo/apollonugetfeed/v3/index.json": {}
+        "https://buildserver.365residentservices.com:4430/httpAuth/app/nuget/feed/Apollo/apollonugetfeed/v3/index.json": {},
+        "https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbE93ekNDa0ROSzA0WWdNQ05ybWVONWcxWTJIQXxBQ3Jtc0trcGMwZEtDSjRrREdtOGxMeTVBNW9ZLWlhTUs4U0VSZVkwb24zbFVEc0M3X012cUlOTkZ4elhMbFdhak9QLVltRXVqb1FKZ2t2Wk5wcFo0dzNXbU9xVXhoUkpQY253OGlJVkdpOFRSclJaSzFPUFp2TQ&q=https%3A%2F%2Fnuget.emzi0767.com%2Fapi%2Fv3%2Findex.json": {}
       },
       "frameworks": {
         "netcoreapp2.2": {

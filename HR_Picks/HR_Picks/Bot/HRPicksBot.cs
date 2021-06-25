@@ -18,7 +18,7 @@ namespace HR_Picks.Bot
         {
             var json = string.Empty;
 
-            using (var fs = File.OpenRead("ClientConfig.json"))
+            using (var fs = File.OpenRead("./Configs/ClientConfig.json"))
             using (var sr = new StreamReader(fs, new UTF8Encoding(false)))
                 json = sr.ReadToEnd();
 

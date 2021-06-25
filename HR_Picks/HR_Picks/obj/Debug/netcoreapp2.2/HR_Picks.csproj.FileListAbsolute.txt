@@ -22,3 +22,5 @@ C:\Users\shark\Documents\GitHub\HR_Picks\HR_Picks\HR_Picks\obj\Debug\netcoreapp2
 C:\Users\shark\Documents\GitHub\HR_Picks\HR_Picks\HR_Picks\obj\Debug\netcoreapp2.2\HR_Picks.dll
 C:\Users\shark\Documents\GitHub\HR_Picks\HR_Picks\HR_Picks\obj\Debug\netcoreapp2.2\HR_Picks.pdb
 C:\Users\shark\Documents\GitHub\HR_Picks\HR_Picks\HR_Picks\bin\Debug\netcoreapp2.2\Configs\GoogleCreds.json
+C:\Users\shark\OneDrive\Documents\GitHub\HR_Picks\HR_Picks\HR_Picks\bin\Debug\netcoreapp2.2\Configs\ClientConfig.json
+C:\Users\shark\OneDrive\Documents\GitHub\HR_Picks\HR_Picks\HR_Picks\bin\Debug\netcoreapp2.2\Configs\GoogleCreds.json
